@@ -1,9 +1,13 @@
 # PRUEBA PARA GIT
 
 >-Hecho utilizando QtCreator para interfaces graficas
+
 >-Comentado en su mayoria para mejor entendimiento (En Ingles)
+
 >-Puede abrir y gaurdar archivos tipo cvd (puede entrar en conflicto con los archivos que genera el antivirus ClamAV)
+
 >-Las palabras reservadas por ahora son :
+
 
 	* class
 	* for

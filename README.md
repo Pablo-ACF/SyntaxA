@@ -36,7 +36,7 @@ se creara un nuevo proyecto local QtCreator ahora preguntara que version desea u
 
 >--Diagramas de sintaxis pendientes
 
-# ---------------------------------------------------------------------------------------------------------------------------- 
+# -------------------------------------------------------------------------------------------------------------------------------- 
 ### English
 
 >-Made on QtCreator for graphical interface
